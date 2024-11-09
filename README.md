@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML/AI engineering
 - 🌱 I’m currently learning Cybersecurity 
 - 💞️ I’m looking to collaborate on Information Technology 
-- 📫 How to reach me Jke.cd.mancuso@gmail.com
+- 📫 How to reach me Jake.cd.mancuso@gmail.com
 - 😄 Located: Dayton Ohio USA
 - ⚡ Favorite Learning Subjects : AI/ML, Cybersecurity, Differential Geometry, Functional Analysis, Network Engineering!
 
